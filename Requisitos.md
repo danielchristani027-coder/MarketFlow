@@ -1,4 +1,4 @@
->>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Requisitos Funcionais <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+Requisitos Funcionais
 
 Gestão de Produtos
 
