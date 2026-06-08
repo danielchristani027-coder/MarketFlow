@@ -1,7 +1,6 @@
 # Sistema de Gerenciamento de Supermercados - MarketFlow
 
-> Trabalho Final A1 — Banco de Dados I | Ciencia da Computacao | UNOESC Sao Miguel do Oeste — 2026/01
-
+> Trabalho Final A1 — Banco de Dados I | Ciencia da Computacao | UNOESC Sao Miguel do Oeste — 2026/01 <br/>
 > Professor: Roberson Junior Fernandes Alves
 
 ---
@@ -101,24 +100,24 @@ A modelagem do banco de dados foi desenvolvida seguindo os princípios de normal
 <table>
   <tr>
     <td align="center">
-      <img width="150" height="150" alt="Image" src="https://github.com/user-attachments/assets/c8ba5e4f-0412-4a0b-847e-65f97f8d4384"><br/>    
+      <img width="150" height="150" alt="Image" src="https://github.com/user-attachments/assets/2086a702-533b-42a1-a3c3-7efef403f3a6"><br/>    
       <strong>Arthur Rosanelli</strong><br/>
       Matricula: 449641
     </td>
     <td align="center">
-      <img src="https://api.dicebear.com/9.x/avataaars/png?seed=Fulana&size=100" width="100"><br/>
+      <img width="115" height="150" alt="Image" src="https://github.com/user-attachments/assets/5ec5ab7f-62c0-4772-9302-7bd2e125d404"><br/>
       <strong>Daniel Christani</strong><br/>
       Matricula: 449472
     </td>
     <td align="center">
-      <img src="https://api.dicebear.com/9.x/avataaars/png?seed=Fulana&size=100" width="100"><br/>
+      <img width="150" height="150" alt="Image" src="https://github.com/user-attachments/assets/5f99287d-2794-4402-9bb7-27542bf81f74"><br/>
       <strong>Diogo Rodrigo Nielsson</strong><br/>
       Matricula: 446061
     </td>
-        <td align="center">
-      <img src="https://api.dicebear.com/9.x/avataaars/png?seed=Fulana&size=100" width="100"><br/>
+    <td align="center">
+      <img width="150" height="150" alt="Image" src="https://github.com/user-attachments/assets/ea4454cd-13b3-4d06-a72a-069581005480"><br/>      
       <strong>Felipe Kremer</strong><br/>
-      Matricula: xxxxxx
+      Matricula: 449248
     </td>
   </tr>
 </table>
