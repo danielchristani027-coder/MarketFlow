@@ -51,14 +51,12 @@ A modelagem do banco de dados foi desenvolvida seguindo os princípios de normal
 | RF32 | O sistema deve permitir consultar o saldo atual do estoque.                                             |
 | RF33 | O sistema deve alertar quando um produto atingir o estoque mínimo definido.                             |
 | RF34 | O sistema deve registrar perdas de produtos por vencimento, dano ou outros motivos.                     |
-| RF35 | O sistema deve registrar contas a pagar.                                                                |
-| RF36 | O sistema deve registrar contas a receber.                                                              |
-| RF37 | O sistema deve gerar relatórios financeiros.                                                            |
-| RF38 | O sistema deve emitir relatório dos produtos mais vendidos.                                             |
-| RF39 | O sistema deve emitir relatório de vendas por período.                                                  |
-| RF40 | O sistema deve emitir relatório de lucro por produto.                                                   |
-| RF41 | O sistema deve emitir relatório do estoque atual.                                                       |
-| RF42 | O sistema deve emitir relatório de produtos próximos ao vencimento.                                     |
+| RF35 | O sistema deve gerar relatórios financeiros.                                                            |
+| RF36 | O sistema deve emitir relatório dos produtos mais vendidos.                                             |
+| RF37 | O sistema deve emitir relatório de vendas por período.                                                  |
+| RF38 | O sistema deve emitir relatório de lucro por produto.                                                   |
+| RF39 | O sistema deve emitir relatório do estoque atual.                                                       |
+| RF40 | O sistema deve emitir relatório de produtos próximos ao vencimento.                                     |
 
 ## Requisitos Nao Funcionais
 
