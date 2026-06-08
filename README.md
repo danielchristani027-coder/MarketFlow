@@ -101,7 +101,7 @@ A modelagem do banco de dados foi desenvolvida seguindo os princípios de normal
 <table>
   <tr>
     <td align="center">
-      <img src="https://api.dicebear.com/9.x/avataaars/png?seed=Fulana&size=100" width="100"><br/>
+      <img width="150" height="150" alt="Image" src="https://github.com/user-attachments/assets/c8ba5e4f-0412-4a0b-847e-65f97f8d4384"/>      
       <strong>Arthur Rosanelli</strong><br/>
       Matricula: 449641
     </td>
