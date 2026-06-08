@@ -19,19 +19,25 @@ A modelagem do banco de dados foi desenvolvida seguindo os princípios de normal
 <table>
   <tr>
     <td align="center">
-      <img src="https://api.dicebear.com/9.x/avataaars/png?seed=Fulano&size=100" width="100"><br/>
-      <strong>Fulano de Tal</strong><br/>
-      Matricula: 2024001
-    </td>
-    <td align="center">
-      <img src="https://api.dicebear.com/9.x/avataaars/png?seed=Beltrano&size=100" width="100"><br/>
-      <strong>Beltrano da Silva</strong><br/>
-      Matricula: 2024002
+      <img src="https://api.dicebear.com/9.x/avataaars/png?seed=Fulana&size=100" width="100"><br/>
+      <strong>Arthur Rosanelli</strong><br/>
+      Matricula: 449641
     </td>
     <td align="center">
       <img src="https://api.dicebear.com/9.x/avataaars/png?seed=Fulana&size=100" width="100"><br/>
-      <strong>Fulana de Tal</strong><br/>
-      Matricula: 2024003
+      <strong>Daniel Christani</strong><br/>
+      Matricula: 449472
+    </td>
+    <td align="center">
+      <img src="https://api.dicebear.com/9.x/avataaars/png?seed=Fulana&size=100" width="100"><br/>
+      <strong>Diogo Rodrigo Nielsson</strong><br/>
+      Matricula: 446061
+    </td>
+        <td align="center">
+      <img src="https://api.dicebear.com/9.x/avataaars/png?seed=Fulana&size=100" width="100"><br/>
+      <strong>Felipe Kremer</strong><br/>
+      Matricula: xxxxxx
+          
     </td>
   </tr>
 </table>
