@@ -86,6 +86,18 @@ A modelagem do banco de dados foi desenvolvida seguindo os princípios de normal
 | RNF20 | O sistema deve seguir as boas práticas de segurança e proteção de dados dos clientes e funcionários.        |
 
 ---
+
+## Tecnologias utilizadas
+
+| Tecnologia | Finalidade |
+|------------|------------|
+| PostgreSQL 16 | Sistema Gerenciador de Banco de Dados (SGBD) |
+| VisualParadigm | Modelagem dos diagramas do banco de dados, incluindo Diagrama Entidade-Relacionamento (DER) e modelo lógico.
+| SQL (DDL / DML) | Criacao do esquema, constraints, indices e consultas |
+| Git / GitHub | Versionamento e entrega do projeto |
+
+---
+
 ## Devs
 
 <table>
