@@ -81,6 +81,9 @@ A modelagem do banco de dados foi desenvolvida seguindo os princípios de normal
 | RNF18 | O sistema deve preservar o preço do produto no momento da venda para manter o histórico financeiro.         |
 | RNF19 | O sistema deve permitir acesso simultâneo de múltiplos usuários sem inconsistência de dados.                |
 | RNF20 | O sistema deve seguir as boas práticas de segurança e proteção de dados dos clientes e funcionários.        |
+---
+## Modelo Relacional
+<img width="1165" height="733" alt="Image" src="https://github.com/user-attachments/assets/181d97d7-78e3-40cb-b37f-ff53d6d05f7a" />
 
 ---
 
