@@ -83,7 +83,7 @@ A modelagem do banco de dados foi desenvolvida seguindo os princípios de normal
 | RNF20 | O sistema deve seguir as boas práticas de segurança e proteção de dados dos clientes e funcionários.        |
 ---
 ## Modelo Relacional
-<img width="1165" height="733" alt="Image" src="https://github.com/user-attachments/assets/181d97d7-78e3-40cb-b37f-ff53d6d05f7a" />
+<img width="1167" height="733" alt="Image" src="https://github.com/user-attachments/assets/6e29d633-a463-47c9-93fa-74e44f6e36da" />
 
 ---
 
