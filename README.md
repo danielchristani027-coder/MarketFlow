@@ -1,6 +1,7 @@
 # Sistema de Gerenciamento de Supermercados - MarketFlow
 
-> Trabalho Final A1 — Banco de Dados I | Ciencia da Computacao | UNOESC Sao Miguel do Oeste — 2026/01 <br/>
+> Trabalho Final A1 <br/>
+> Disciplina: Banco de Dados I | Ciencia da Computacao | UNOESC Sao Miguel do Oeste — 2026/01 <br/>
 > Professor: Roberson Junior Fernandes Alves
 
 ---
